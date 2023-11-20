@@ -1,0 +1,30 @@
+[
+    {
+        "currencyUid": 345,
+        "denomination": 0.2
+    },
+    {
+        "currencyUid": 345,
+        "denomination": 0.5
+    },
+    {
+        "currencyUid": 345,
+        "denomination": 1
+    },
+    {
+        "currencyUid": 345,
+        "denomination": 2
+    },
+    {
+        "currencyUid": 345,
+        "denomination": 5
+    },
+    {
+        "currencyUid": 345,
+        "denomination": 10
+    },
+    {
+        "currencyUid": 345,
+        "denomination": 20
+    }
+]

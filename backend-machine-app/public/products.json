@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Motts",
+        "uid": "3gtbtebwebew",
+        "price": 12,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 34
+    },
+    {
+        "name": "Musselman's",
+        "uid": "vfvfffvfvf",
+        "price": 23,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 5
+    },
+    {
+        "name": "FRUIT SNACKS",
+        "uid": "ggggggewwtt",
+        "price": 0.12,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 545
+    },
+    {
+        "name": "Vanilla Almond",
+        "uid": "kjwfojoprjfoprwkmfpkorwm",
+        "price": 0.5,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 545
+    },
+    {
+        "name": "Nuts",
+        "uid": "wlrkfmpokmrpofkmprowkmfpokrwm",
+        "price": 2.4,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 11
+    },
+    {
+        "name": "Chocolate",
+        "uid": "wkmprwmpofkmprwfkp,orwk,fw",
+        "price": 2,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 5
+    },
+    {
+        "name": "Bars",
+        "uid": "flmrwlfmorwmkflrw",
+        "price": 1.45,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 50
+    },
+    {
+        "name": "Salted Almonds",
+        "uid": "oijnoijnoijmcomdijmcd",
+        "price": 0.45,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 16
+    },
+    {
+        "name": "Salted Peanuts",
+        "uid": "oijnoijnoijmcomdijmcd",
+        "price": 0.9,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 3
+    },
+    {
+        "name": "Diced Peaches, no sugar added",
+        "uid": "owijoijrmwopijmgr4542",
+        "price": 3.4,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 23
+    },
+    {
+        "name": "Original Trail Mix",
+        "uid": "owijoijrmwopijmgr4542",
+        "price": 4.2,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 34
+    },
+    {
+        "name": "Pineapple Tidbits in 100% Juice",
+        "uid": "oijnojnoijnqoe98u39jeimde",
+        "price": 2.9,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 4
+    },
+    {
+        "name": "Fruit cups in single-serve cups with less than 250 calories",
+        "uid": "kjndejienideiieijn3inkenkekkjnk",
+        "price": 0.9,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 42
+    },
+    {
+        "name": "Peaches in 100% Juice",
+        "uid": "oijnojnoijnqoe98u39jeimde",
+        "price": 1.60,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 10
+    },
+    {
+        "name": "Grapes",
+        "uid": "oijnojnoijnqoe98u39jeimde",
+        "price": 1.6,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 35
+    },
+    {
+        "name": "Bananas",
+        "uid": "jnknknknknjknencje",
+        "price": 0.6,
+        "currency": "lv",
+        "currencyUid": 345,
+        "order": 3
+    }
+]
