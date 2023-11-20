@@ -29,7 +29,7 @@ open with some editor file 'vending-machine-app/src' `main.tsx`, edit empty line
 
 * Press Service Code Button
 * selected how product you want
-* click selected procut code button
+* click selected product code button
 
  - if you have change it show in input
  - if the money is not enough for the purchase, display error message
