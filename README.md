@@ -13,9 +13,13 @@
 6. run `npm install`
 7. run `npm start`
 
+Open http://localhost:3000/ to use the app
+
+Backend is stared on port http://localhost:8181/
+
 ## ISSUE with Mock data
 if data is `loading...`
-open with some editor file `main.tsx`, edit empty line or console.log() to debug
+open with some editor file 'vending-machine-app/src' `main.tsx`, edit empty line or console.log() to debug
 
 ## Usage
 * insert your coins, bills, click on in it

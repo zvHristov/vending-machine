@@ -34,7 +34,6 @@ const Main:FC  = () => {
 
   const selectProduct = 
   useCallback((product: IProduct) => {
-
     const changeValue = Math.round((coins - product.price * count) * 100) / 100;
     if (changeValue < 0 ) {
       console.log(changeValue,'error')

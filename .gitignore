@@ -4,3 +4,12 @@
 /backend-machine-app/node_modules
 /vending-machine-app/node_modules
 
+/vending-machine-app/.pnp
+/vending-machine-app/.pnp.js
+
+# testing front end
+/vending-machine-app/coverage
+
+# production build fron end
+/vending-machine-app/build
+
